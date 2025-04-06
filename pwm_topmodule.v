@@ -3,7 +3,7 @@
 `include "pwm_controller.v"
 `include "lcd_module.v"
 
-module pdm_topmodule (
+module pwm_topmodule (
     input clk,
     input rst,
     input start,
